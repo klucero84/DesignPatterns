@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDesignPattern", "StrategyDesignPattern\StrategyDesignPattern.csproj", "{D0738583-E4F4-4FDC-B254-CA48B8CA99E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyDesignPattern", "StrategyDesignPattern\StrategyDesignPattern.csproj", "{D0738583-E4F4-4FDC-B254-CA48B8CA99E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDesignPattern", "ObserverDesignPattern\ObserverDesignPattern.csproj", "{5F9445EF-0E29-4B71-9097-2FD918DD5945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDesignPattern", "ObserverDesignPattern\ObserverDesignPattern.csproj", "{5F9445EF-0E29-4B71-9097-2FD918DD5945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{2C7B1BFC-E722-483B-A254-0382146E91FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5F9445EF-0E29-4B71-9097-2FD918DD5945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F9445EF-0E29-4B71-9097-2FD918DD5945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F9445EF-0E29-4B71-9097-2FD918DD5945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7B1BFC-E722-483B-A254-0382146E91FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7B1BFC-E722-483B-A254-0382146E91FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7B1BFC-E722-483B-A254-0382146E91FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7B1BFC-E722-483B-A254-0382146E91FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
